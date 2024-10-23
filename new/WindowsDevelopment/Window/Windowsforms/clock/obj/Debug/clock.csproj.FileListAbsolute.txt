@@ -1,0 +1,10 @@
+C:\Users\Rich\Desktop\new\WindowsDevelopment\Window\Windowsforms\clock\bin\Debug\clock.exe.config
+C:\Users\Rich\Desktop\new\WindowsDevelopment\Window\Windowsforms\clock\bin\Debug\clock.exe
+C:\Users\Rich\Desktop\new\WindowsDevelopment\Window\Windowsforms\clock\bin\Debug\clock.pdb
+C:\Users\Rich\Desktop\new\WindowsDevelopment\Window\Windowsforms\clock\obj\Debug\clock.csproj.AssemblyReference.cache
+C:\Users\Rich\Desktop\new\WindowsDevelopment\Window\Windowsforms\clock\obj\Debug\clock.Properties.Resources.resources
+C:\Users\Rich\Desktop\new\WindowsDevelopment\Window\Windowsforms\clock\obj\Debug\clock.csproj.GenerateResource.cache
+C:\Users\Rich\Desktop\new\WindowsDevelopment\Window\Windowsforms\clock\obj\Debug\clock.csproj.CoreCompileInputs.cache
+C:\Users\Rich\Desktop\new\WindowsDevelopment\Window\Windowsforms\clock\obj\Debug\clock.exe
+C:\Users\Rich\Desktop\new\WindowsDevelopment\Window\Windowsforms\clock\obj\Debug\clock.pdb
+C:\Users\Rich\Desktop\new\WindowsDevelopment\Window\Windowsforms\clock\obj\Debug\clock.MainForm.resources
